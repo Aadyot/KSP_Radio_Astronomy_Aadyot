@@ -1,4 +1,0 @@
-read ch4,5,6
-write mid report
-do task
-21cm paper
